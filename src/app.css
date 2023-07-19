@@ -1,0 +1,12 @@
+@media (max-width: 1080px) {
+  .address,
+  .phone {
+    width: 150px;
+  }
+}
+.gender {
+  padding: 10px;
+}
+
+
+
